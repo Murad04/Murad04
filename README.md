@@ -16,7 +16,5 @@ I'm university student.
 ## 🔥 Statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murad04&theme=radical&background=000000)](https://git.io/streak-stats)
-<br>
-<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Murad04)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad04)](https://github.com/anuraghazra/github-readme-stats)
