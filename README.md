@@ -15,6 +15,6 @@ I'm university student.
 
 ## 🔥 Statistics
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murad04&theme=radical&background=000000)](https://git.io/streak-stats)-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Murad04)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad04)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murad04&theme=radical&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Murad004&show_icons=true&count_private=true&theme=codeSTACKr)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad04)](https://github.com/anuraghazra/github-readme-stats)-->
