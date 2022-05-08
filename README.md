@@ -3,14 +3,14 @@
 ## 🙂 About me
 I'm university student.
 
--  I’m currently working on C# projects
--  I’m currently learning C# .
+-  ⚡ I’m currently working on C# projects
+-  👨‍🎓 I’m currently learning C# .
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
 
 ## 🔥 Statistics
@@ -22,6 +22,7 @@ I'm university student.
 
 ## 💻 Languages and Tools:
 <img align="left" width="30px" src="https://user-images.githubusercontent.com/67361462/167311948-01663ad9-d500-4030-87ba-2be4145c0fb2.png" />
+<img align="left" width="40px" src="https://user-images.githubusercontent.com/67361462/167312225-83edae9a-29a3-4505-bbf5-35f835f236ea.png" />
 <br/>
 
 ## 📫 Connect with me:
