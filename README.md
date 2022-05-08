@@ -19,3 +19,9 @@ I'm university student.
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Murad04&show_icons=true&count_private=true&theme=codeSTACKr)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad04)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Murad04&theme=dracula&hide_border=false)
+
+## 📫 Connect with me
+<a href="https://twitter.com/Muradm04">
+  <img align="left" width="30px" src="https://user-images.githubusercontent.com/67361462/167311604-1112f7c3-22c2-407f-bb04-3d0f16cf0973.png" />
+</a>
+                                                                                                                                        
