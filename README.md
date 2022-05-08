@@ -28,6 +28,3 @@ I'm university student.
 <a href="https://twitter.com/Muradm04">
   <img align="left" width="30px" src="https://user-images.githubusercontent.com/67361462/167311604-1112f7c3-22c2-407f-bb04-3d0f16cf0973.png" />
 </a>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-                                                                                                                                        
