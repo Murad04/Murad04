@@ -50,3 +50,9 @@ I'm junior .Net developer and university student.
 <a href="https://az.linkedin.com/in/murad-m-139950241">
   <img align="left" width="30px" src="https://user-images.githubusercontent.com/67361462/173109519-be102671-e2de-495c-b565-a507487126c5.png" />
 </a>
+
+<br>
+
+## Recent activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
