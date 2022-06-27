@@ -53,11 +53,3 @@ I'm junior .Net developer and university student.
 
 <br>
 
-## Recent activity :zap:
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/Murad04/ASP.NET-Core-Identity-Project/issues/35) in [Murad04/ASP.NET-Core-Identity-Project](https://github.com/Murad04/ASP.NET-Core-Identity-Project)
-2. ❗️ Opened issue [#34](https://github.com/Murad04/ASP.NET-Core-Identity-Project/issues/34) in [Murad04/ASP.NET-Core-Identity-Project](https://github.com/Murad04/ASP.NET-Core-Identity-Project)
-3. 🗣 Commented on [#33](https://github.com/Murad04/ASP.NET-Core-Identity-Project/issues/33) in [Murad04/ASP.NET-Core-Identity-Project](https://github.com/Murad04/ASP.NET-Core-Identity-Project)
-4. ❗️ Closed issue [#33](https://github.com/Murad04/ASP.NET-Core-Identity-Project/issues/33) in [Murad04/ASP.NET-Core-Identity-Project](https://github.com/Murad04/ASP.NET-Core-Identity-Project)
-5. ❗️ Opened issue [#33](https://github.com/Murad04/ASP.NET-Core-Identity-Project/issues/33) in [Murad04/ASP.NET-Core-Identity-Project](https://github.com/Murad04/ASP.NET-Core-Identity-Project)
-<!--END_SECTION:activity-->
