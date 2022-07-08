@@ -42,7 +42,7 @@ I'm junior .Net developer and university student.
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad04&title=Stars,Commit,PullRequest,Repositories,Issues&theme=radical&no-frame=true&margin-w=15" alt="murad04" /></a> </p>
 
-## 📫 Connect with me:
+## 📫 How to reach me:
 <a href="https://twitter.com/Muradm04">
   <img align="left" width="30px" src="https://user-images.githubusercontent.com/67361462/167311604-1112f7c3-22c2-407f-bb04-3d0f16cf0973.png" />
 </a>
