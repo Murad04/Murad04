@@ -40,7 +40,7 @@ I'm junior .Net developer and university student.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murad04&theme=radical&count_private=true&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Murad04&show_icons=true&count_private=true&theme=codeSTACKr)](https://git.io/streak-stats)
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad04&title=Stars,Commit,PullRequest,Repositories,Issues&theme=discord" alt="murad04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad04&title=Stars,Commit,PullRequest,Repositories,Issues&theme=radical" alt="murad04" /></a> </p>
 
 ## 📫 Connect with me:
 <a href="https://twitter.com/Muradm04">
