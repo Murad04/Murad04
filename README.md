@@ -33,6 +33,7 @@ I'm junior .Net developer and university student.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="80" height="40"/>
   <img src="https://user-images.githubusercontent.com/67361462/171796159-94085a01-ef02-4448-a230-b23dec4f4f07.png" title="SQL Server" alt="SQL Server" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/67361462/171989554-faa3f227-bed7-486f-b918-1b2b812735f0.png" title="Entity Framework" alt="Entity Framework" width="85" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="85" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="85" height="40"/>
 </div>
 
