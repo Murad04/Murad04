@@ -35,6 +35,7 @@ I'm junior .Net developer and university student.
   <img src="https://user-images.githubusercontent.com/67361462/171989554-faa3f227-bed7-486f-b918-1b2b812735f0.png" title="Entity Framework" alt="Entity Framework" width="85" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="85" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="85" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="86" height="40"/>
 </div>
 
 ## 🔥 Statistics
