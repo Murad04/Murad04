@@ -17,7 +17,7 @@ I'm junior .Net developer and university student.
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1200" height="300"/>
 </div>
 
 ## Languages and tools:
