@@ -3,8 +3,6 @@
 ## 🙂 About me
 I'm junior .Net developer and university student.
 -  ⚡ I’m currently working on C# projects
--  👨‍🎓 I’ve been learning   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".Net" alt=".Net" width="25" height="25"/> 
-
 -  ✔️ I'm exploring, learning new technologies. 
 -  📖 Learning from <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" witdh="25" height="25"/> and <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width="70" height="25"/>
 <!-- - 👯 I’m looking to collaborate on ...
