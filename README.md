@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Murad.
 
 ## 🙂 About me
-I'm junior .Net developer and university student.
 -  ⚡ I’m currently working on C# projects
 -  ✔️ I'm exploring, learning new technologies. 
 -  📖 Learning from <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" witdh="25" height="25"/> and <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width="70" height="25"/>
