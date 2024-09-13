@@ -20,6 +20,7 @@
   <img src="https://user-images.githubusercontent.com/67361462/171796159-94085a01-ef02-4448-a230-b23dec4f4f07.png" title="SQL Server" alt="SQL Server" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="80" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="85" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="85" height="40"/>
 </div>
 
 ## 🔥 Statistics
