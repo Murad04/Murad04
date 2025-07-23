@@ -25,7 +25,6 @@
 
 ## 🔥 Statistics
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murad04&theme=github-dark-blue&count_private=true&background=000000)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad04&title=Stars,Commit,PullRequest,Repositories,Issues&theme=radical&no-frame=true&margin-w=15" alt="murad04" /></a> </p>
 
